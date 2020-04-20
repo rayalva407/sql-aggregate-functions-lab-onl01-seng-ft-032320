@@ -1,6 +1,5 @@
 def highest_student_gpa
-  "SELECT COUNT(gpa)"
-end
+  "SELECT MAX(gpa) FROM 
 
 def lowest_student_gpa
 end
